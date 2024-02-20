@@ -1,0 +1,3 @@
+![Ekran görüntüsü 2024-02-20 044327](https://github.com/grbzemir/ASP.NET-Core-MVC-CRUD-Operations-using-.NET-8-SQL-Server-And-Entity-Framework-Core/assets/125201557/97666513-6a57-47ef-939a-9801ed9346a2)
+![Ekran görüntüsü 2024-02-20 044203](https://github.com/grbzemir/ASP.NET-Core-MVC-CRUD-Operations-using-.NET-8-SQL-Server-And-Entity-Framework-Core/assets/125201557/085eb921-7ce8-44f0-97e5-98b1e2fa44ee)
+![Ekran görüntüsü 2024-02-20 044528](https://github.com/grbzemir/ASP.NET-Core-MVC-CRUD-Operations-using-.NET-8-SQL-Server-And-Entity-Framework-Core/assets/125201557/723621b4-715e-4b62-ade2-0efd713d2374)
